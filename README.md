@@ -11,7 +11,7 @@ Hi, I'm [Omkar Kolte](), a passionate self-taught Full Stack web developer and a
 I am also an open-source contributor and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="450" />
+  <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="420" />
 
 - 🔭 I’m currently working on GSSoC [ML-Projectyard](https://github.com/ashishsahu1/ML-ProjectYard)
 - 🌱 I’m currently learning GAN's (General Adversarial Networks). 
@@ -34,25 +34,6 @@ I am also an open-source contributor and maintainer. I learned a lot from the op
 </a>
 
 
-<br />
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/numpy.png"></code>
-<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/pandas.png"></code>
-<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/matplotlib.png"></code>
-<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/mlpack.png"></code>
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -63,6 +44,22 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
 HTML         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 ```
 <!--END_SECTION:waka-->
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/numpy.png"></code>
+<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/pandas.png"></code>
+<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/matplotlib.png"></code>
+<code><img height="20" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/mlpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 📈 My GitHub Stats
 
