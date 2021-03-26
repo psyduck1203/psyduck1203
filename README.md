@@ -3,6 +3,25 @@
 </p>
 
 ### :rainbow: Hey there :eyes:<img src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/Hi.gif" width="25px">
+<br />
+
+
+Hi, I'm [Omkar Kolte](), a passionate self-taught Full Stack web developer and a Machine Learning Enthusiasts from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source contributor and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="450" />
+
+- 🔭 I’m currently working on GSSoC [ML-Projectyard](https://github.com/ashishsahu1/ML-ProjectYard)
+- 🌱 I’m currently learning GAN's (General Adversarial Networks) 
+- 💬 Ask me about anything, I am happy to help
+- 📝 [Resume]()
+- 📫 How to reach me:
+
+<a href="omkarkolte78@gmail.com">
+  <img align="left" alt="Omkar's Mail" width="22px" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/gmail.png" />
+</a>
 <a href="https://discord.gg/">
   <img align="left" alt="Omkar's Discord" width="22px" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/discord.png" />
 </a>
@@ -12,21 +31,6 @@
 <a href="https://www.linkedin.com/in/omkarkolte/">
   <img align="left" alt="Omkar's LinkedIN" width="22px" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/linkedin.png" />
 </a>
-
-<br />
-
-Hi, I'm [Omkar Kolte](), a passionate self-taught Full Stack web developer and a Machine Learning Enthusiasts from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source contributor and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="450" />
-
-- 🔭 I’m currently working on GSSoC - [ML-Projectyard](https://github.com/ashishsahu1/ML-ProjectYard)
-- 🌱 I’m currently learning GAN's (General Adversarial Networks) 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Mail](omkarkolte78@gmail.com);
-- 📝 [Resume]()
 
 **Languages and Tools:**  
 
