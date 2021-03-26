@@ -33,6 +33,7 @@ I am also an open-source contributor and maintainer. I learned a lot from the op
   <img align="left" alt="Omkar's LinkedIN" width="22px" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/linkedin.png" />
 </a>
 
+<br />
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
