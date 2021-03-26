@@ -14,8 +14,9 @@ I am also an open-source contributor and maintainer. I learned a lot from the op
   <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="450" />
 
 - 🔭 I’m currently working on GSSoC [ML-Projectyard](https://github.com/ashishsahu1/ML-ProjectYard)
-- 🌱 I’m currently learning GAN's (General Adversarial Networks) 
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning GAN's (General Adversarial Networks). 
+- 💬 Ask me about anything, I am happy to help.
+- ❤️ I love Chess and Pokemon. 
 - 📝 [Resume]()
 - 📫 How to reach me:
 
