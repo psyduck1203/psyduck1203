@@ -13,14 +13,15 @@ I am also an open-source contributor and maintainer. I learned a lot from the op
 
   <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="420" />
 
-- 🔭 I’m currently working on GSSoC [ML-Projectyard](https://github.com/ashishsahu1/ML-ProjectYard)
+- 🔭 I’m currently working on [ML-Projectyard](https://github.com/ashishsahu1/ML-ProjectYard) as a part of GSSoC 2021
 - 🌱 I’m currently learning GAN's (General Adversarial Networks). 
+- 👯 I’m looking to collaborate on any research paper or project.
 - 💬 Ask me about anything, I am happy to help.
-- ❤️ I love Chess and Pokemon. 
+- ❤️ I love Chess, Cricket and Coffee. 
 - 📝 [Resume]()
 - 📫 How to reach me:
 
-<a href="omkarkolte78@gmail.com">
+<a href="mailto:omkarkolte78@gmail.com">
   <img align="left" alt="Omkar's Mail" width="22px" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/gmail.png" />
 </a>
 <a href="https://discord.gg/">
