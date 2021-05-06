@@ -11,7 +11,7 @@ Hi, I'm [Omkar Kolte](https://psyduck1203.github.io/portfolio-main/index.html), 
 I am also an open-source contributor and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="420" />
+  <img align="right" alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/code.gif" width="500" height="525" />
 
 - 🔭 I’m currently working on [ML-Projectyard](https://github.com/ashishsahu1/ML-ProjectYard) as a part of GSSoC 2021
 - 🌱 I’m currently learning GAN's (General Adversarial Networks). 
