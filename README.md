@@ -12,7 +12,7 @@ I am also an open-source contributor and maintainer. I have participated in vari
 
 <!-- ![](https://github.com/psyduck1203/psyduck1203/blob/main/assests/header_.png) -->
 
-<img alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/giphy.webp" align="left" width="150" height="150" />
+<img alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/giphy.webp" align="left" width="180" height="180" />
 
 - 🔭 I’m currently working on [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) and [Hands on ML Basic to Advance](https://github.com/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-) as a part of LGM-SoC.
 - 🌱 I’m currently learning GAN's (General Adversarial Networks). 
