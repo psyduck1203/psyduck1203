@@ -23,7 +23,6 @@ I am also an open-source contributor and maintainer. I have participated in vari
 - 📝 [Resume]()
 
 <h2 align="center">📈 My GitHub Stats, Projects & Blogs</h2>
-
 <p align="center">
   <details>	
     <summary><b>⚡ Github Stats</b></summary>
