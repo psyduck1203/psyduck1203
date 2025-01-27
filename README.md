@@ -6,7 +6,7 @@
 <a href=""><img src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/python.png" align="right" height="150" /></a>
 
 
-Hi, I'm [Omkar Kolte](https://psyduck1203.github.io/portfolio-main/index.html), a passionate self-taught Full Stack web developer and a Machine Learning Enthusiasts from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Also, I love to invest my time in problem solving and learning new things. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Omkar Kolte](https://psyduck1203.github.io/portfolio-main/index.html), a passionate self-taught Software Engineer and a Machine Learning Enthusiasts from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Also, I love to invest my time in problem solving and learning new things. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source contributor and maintainer. I have participated in various open source events like [Hacktoberfest](), [GirlScript Summer of Code](), [BOSS](), [LGM-SoC](), [DevIncept](), and many more. I have learnt a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
@@ -14,13 +14,13 @@ I am also an open-source contributor and maintainer. I have participated in vari
 
 <img alt="GIF" src="https://github.com/psyduck1203/psyduck1203/blob/main/assests/giphy.webp" align="left" width="180" height="180" />
 
-- 🔭 I’m currently working on [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) and [Hands on ML Basic to Advance](https://github.com/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-) as a part of LGM-SoC.
+- 🔭 I’m currently working as a Data Engineer at Accenture, India.
 - 🌱 I’m currently learning GAN's (General Adversarial Networks). 
 - 🤔 I’m looking for help to crack [Google Summer of Code]() and [MLH fellowship]().
 - 👯 I’m looking to collaborate on any research paper or project.
 - 💬 Ask me about anything, I am happy to help.
 - ❤️ I love Chess, Cricket and Coffee. 
-- 📝 [Resume]()
+- 📝 [Resume](https://drive.google.com/file/d/10PTMwpxecbcpCBnuiH_xqNHendQTadYP/view?usp=sharing)
 
 <h2 align="center">📈 My GitHub Stats, Projects & Blogs</h2>
 <p align="center">
