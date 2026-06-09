@@ -35,7 +35,9 @@ I am also an open-source contributor and maintainer. I have participated in vari
   <details>	
     <summary><b>⚡ Some of my Projects</b></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psyduck1203&repo=CDSA)](https://github.com/psyduck1203/CDSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psyduck1203&repo=Ride-Match)](https://github.com/psyduck1203/Ride-Match)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psyduck1203&repo=multimodal-fashion-search-engine)](https://github.com/psyduck1203/multimodal-fashion-search-engine)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psyduck1203&repo=Analysis_of_Faculty_Participation_Data)](https://github.com/psyduck1203/Analysis_of_Faculty_Participation_Data)
   </details>
